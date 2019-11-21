@@ -1,4 +1,4 @@
-# ETL Using Python and Pandas
+# ETL intermedite Using Python and Pandas
 
 I was working on a CRM deployment and needed to migrate data from the old system to the new one.
 
